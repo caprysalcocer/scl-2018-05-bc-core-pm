@@ -1,1 +1,20 @@
-/* Acá va tu código */
+h1, h2 {
+    font-size:40px;
+    text-align: center;
+    font-style: arial;
+    font-size: 30px;
+}
+
+#caja {
+    background-color: coral;
+    font-size: 20px;
+    border: 5px;
+    width: 50%;
+text-align: center;
+}
+
+#string {
+width: 300px;
+height: 200px;
+}
+
